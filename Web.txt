@@ -1,0 +1,23 @@
+Q1
+HMTL "Hyper Text Transfer Protocol" is a set of rules that state how you should communicate between a browser and a web server.
+
+Q2
+a url "universal resource locator" finds websites using a protocol, hostname, port, resource, and query.
+
+Q3
+a DNS matches a hostname to an ip address with that name.
+
+Q4
+optional "extra info" at the end of url for quicker searching. Arguments are separated by an "&".
+
+Q5
+Get and Post.
+
+Q6
+An HTTP request is a request from a client to a server. An HTTP response is a response from a server to a client.
+
+Q7
+Headers provide additional information about the request or the response. (host, cookie, language-type)
+
+Q8 
+If the hostname is not found through your computer cache, router, or isp, it will be sent to a dns server which takes the hostname and matches it to an ip address with the corresponding name, then sends it back to you.
